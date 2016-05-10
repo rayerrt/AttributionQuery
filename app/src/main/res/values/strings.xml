@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AttributionQuery</string>
+    <string name="input_hint">请输入正确的号码</string>
+    <string name="atttibution_unknown">未知归属地</string>
+</resources>
